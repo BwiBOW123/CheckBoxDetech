@@ -1,0 +1,5 @@
+train: C:\\Project\\pythonProject\\dataset\\images\\train
+val: C:\\Project\\pythonProject\\dataset\\images\\val
+
+nc: 2
+names: ['checkbox','text']
